@@ -1,0 +1,13 @@
+# Components for Basic Laser Fighting Drone Prototype
+
+1. Quadcopter frame kit
+2. 4x Brushless motors
+3. 4x ESCs (Electronic Speed Controllers)
+4. Flight controller board (Pixhawk, KK2, or Arduino-based)
+5. LiPo battery (appropriate voltage and capacity)
+6. 5V or 12V low power laser diode module (Class 2 or 3R)
+7. RC transmitter and receiver or wireless control module
+8. Wiring and connectors
+9. Propellers
+10. Mounting brackets
+11. Safety goggles
