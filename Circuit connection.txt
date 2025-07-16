@@ -1,0 +1,15 @@
+# Circuit Description for Drone Laser Prototype
+
+- Connect ESC signal wires to Arduino PWM pins:
+  MOTOR1 -> Pin 3
+  MOTOR2 -> Pin 5
+  MOTOR3 -> Pin 6
+  MOTOR4 -> Pin 9
+
+- Laser module controlled via Arduino Pin 10 through a MOSFET or transistor switch.
+
+- Power supply should match motors and laser requirements.
+
+- Use proper ESCs and flight controllers for actual drone control.
+
+- Ensure all grounds are common.
